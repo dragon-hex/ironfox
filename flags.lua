@@ -1,0 +1,1 @@
+-- dummy configuration for general use
